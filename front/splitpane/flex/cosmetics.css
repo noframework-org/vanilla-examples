@@ -1,0 +1,16 @@
+.pane {
+  border: 1px black solid;
+  padding: 1em;
+}
+
+#leftPane {
+  background-color: hsl(0, 100%, 80%);
+}
+
+#rightPane {
+  background-color: hsl(240, 100%, 80%);
+}
+
+#splitHandle {
+  background: hsl(240, 5%, 41%);
+}
